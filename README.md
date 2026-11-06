@@ -28,6 +28,13 @@
 
 ---
 
+## Project Status: Infrastructure Decommissioned
+
+Tibia Silk Road was developed and deployed as a full-stack application on AWS, featuring a Next.js frontend, NestJS REST API, PostgreSQL database, and automated CI/CD pipelines.
+The cloud infrastructure has since been decommissioned to avoid recurring hosting costs. The complete source code, deployment configurations, and technical documentation remain available in this repository.
+
+---
+
 ## Overview
 
 Tibia Silk Road is a full-stack web platform built to evaluate the economic and logistical viability of reselling Tibia
@@ -47,7 +54,7 @@ At a high level, the platform helps answer questions like:
 
 ---
 
-## Production Status
+## Former Production Environment
 
 The production environment is live and fully wired end to end.
 
